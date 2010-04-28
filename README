@@ -1,0 +1,3 @@
+Heavily based off of code written by off of code written by Dustin Lunduqist.
+
+To change the intensity of the benchmark modify the number of inner loops(actual work) and the number of outter loops(number of threads)
